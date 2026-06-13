@@ -46,6 +46,10 @@ Output:
 Coins in the image: 5
 ```
 
+| Input Image | Output Image |
+|------------|------------|
+| ![Input](images/input_coin.jpg) | ![Output](images/output.png) |
+
 ## Installation
 
 ```bash
